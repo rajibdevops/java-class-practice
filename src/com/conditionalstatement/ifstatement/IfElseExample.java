@@ -1,4 +1,6 @@
-public class IfElseExample2 {
+package com.conditionalstatement.ifstatement;
+
+public class IfElseExample {
     public static void main(String[] args) {
 
         double temp = 103.5;

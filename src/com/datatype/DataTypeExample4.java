@@ -1,3 +1,5 @@
+package com.datatype;
+
 public class DataTypeExample4 {
     public static void main(String[] args) {
         byte b=4;

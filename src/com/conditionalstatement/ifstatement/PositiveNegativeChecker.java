@@ -1,5 +1,6 @@
+package com.conditionalstatement.ifstatement;
 
-    import java.util.Scanner;
+import java.util.Scanner;
 
     public class PositiveNegativeChecker {
         public static void main(String[] args) {

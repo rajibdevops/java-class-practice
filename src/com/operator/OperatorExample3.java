@@ -1,3 +1,5 @@
+package com.operator;
+
 public class OperatorExample3 {
     public static void main(String[] args) {
         int x, y, z;
