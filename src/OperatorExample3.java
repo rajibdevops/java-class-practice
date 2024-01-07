@@ -1,4 +1,4 @@
-public class Example3 {
+public class OperatorExample3 {
     public static void main(String[] args) {
         int x, y, z;
         x = y = z = 2;
